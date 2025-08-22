@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/SWATHIN/Desktop/Twilio%20Project/frontend/src/app/dashboard/page.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst page = () => {\r\n  return (\r\n    <UserDetailsPage />\r\n  )\r\n}\r\n\r\nexport default page"],"names":[],"mappings":";;;;;;AAEA,MAAM,OAAO;IACX,qBACE,8OAAC;;;;;AAEL;uCAEe","debugId":null}}]
+}
